@@ -6,20 +6,14 @@ li {
   list-style: none;
 }
 
-.head span{
-  color:white;
-}
 
 .header {
-  background-color: #800000;
+  background-color: #333333;
   color: #fff;
   height: 90px;
-  border: 5px solid black;
+  border: 5px solid navy;
 }
 
-.header span {
-  color:white;
-}
 
 .header-logo {
   float: left;
@@ -34,7 +28,7 @@ li {
 
 .main {
   padding: 100px 80px;
-  background-color: #FFC0CB;
+  background-color: #CCCCCC;
   
 }
 
@@ -94,15 +88,12 @@ input {
 }
 
 .footer {
-  background-color:#800000;
+  background-color:#666699;
   color: #fff;
   height: 120px;
   padding: 40px;
 }
 
-.footer span {
-  color:white;
-}
 
 .footer-logo {
   float: left;
