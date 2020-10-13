@@ -8,7 +8,7 @@ li {
 
 
 .header {
-  background-color: #333333;
+  background-color: #666699;
   color: #fff;
   height: 90px;
   border: 5px solid navy;
@@ -40,9 +40,6 @@ li {
   font-size: 60px;
 }
 
-.copy-container span {
-  color: white;
-}
 
 .contents {
   height: 500px;
